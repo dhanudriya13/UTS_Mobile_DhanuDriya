@@ -1,23 +1,19 @@
-# What Todo
+# UTS Pemrograman Mobile
 
-A simple todo app in flutter.
-
-[![alt Todo App](https://github.com/akshayejh/what_todo/blob/master/assets/images/github_cover.png?raw=true)](https://github.com/akshayejh/what_todo)
+Putu Dhanu Driya
+1815091035
+Sistem Informasi 
+5B
 
 ## Getting Started
 
-This project is made for a youtube tutorial series.
+This project is a starting point for a Flutter application.
 
-Project is still WIP.
+A few resources to get you started if this is your first Flutter project:
 
-Watch Tutorials:
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Part 1 - https://youtu.be/mOiXndQAZpw - Homepage UI
-
-Part 2 - https://youtu.be/BKoVcV-lLcQ - Taskpage UI
-
-Part 3 - https://youtu.be/IUkHJtCAXt4 - Creating Tasks
-
-Part 4 - https://youtu.be/iZtBILSypcY - Creating Todo
-
-Part 5 - https://www.youtube.com/watch?v=edlpxb-VHYQ
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
